@@ -4,4 +4,4 @@
 ## Requirements
 Pygame
 
-![Title Screen](Sprites/TitleScreen.png)
+<img src="Sprites/TitleScreen.png" alt="Title Screen" width="720"/>
